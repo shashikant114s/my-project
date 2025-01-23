@@ -1,1 +1,2 @@
-This is my new project.
+This is my new project, and this file will guide you.
+
